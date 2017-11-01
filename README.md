@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Alexander's first GitHub repository. 
+Woot woot!

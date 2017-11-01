@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Alexander here, this is my first GitHub repository!
+I like cats and HIMYM.
